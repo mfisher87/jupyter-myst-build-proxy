@@ -6,6 +6,7 @@ authors = [{name = "Ryan Lovett"}]
 requires-python = ">=3.8"
 dependencies = [
     "jupyter-server-proxy>4.1.0",
+    "mystmd>=1.7.0",
 ]
 keywords = ["Jupyter"]
 classifiers = [
